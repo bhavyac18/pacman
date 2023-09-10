@@ -7,4 +7,4 @@ This GitHub repository contains the source code and assets for a Pacman game pro
 Key Features:
 - Pacman character with left-to-right movement
 
-  Happy Gaming!
+Happy Gaming!
