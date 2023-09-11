@@ -1,4 +1,4 @@
-# pacman
+# Pacman Project
 Pacman Project 
 
 Description
