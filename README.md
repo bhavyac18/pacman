@@ -9,4 +9,4 @@ This GitHub repository contains the source code and assets for a Pacman game pro
 ### Image
 <img src="https://github.com/bhavyac18/pacman/assets/53191128/9adfcf06-9f7e-4175-82db-e02efe4ad169" width="100px">
 
-#### *Happy gaming*
+#### *Happy Gaming!*
